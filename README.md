@@ -10,6 +10,6 @@
     <img height="150.2em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiou-413&layout=compact&theme=tokyonight" />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="100.2em" alt="Hiou-413's trophies" src="https://github-profile-trophy.vercel.app/?username=Hiou-413&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&column=7&theme=onedark" />
+    <img height="100.2em" alt="Hiou-413's trophies" src="https://github-profile-trophy.vercel.app/?username=Hiou-413&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&column=10&theme=gruvbox&no-frame=true" />
   </a>
 </p>
